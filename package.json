@@ -11,6 +11,9 @@
   "license": "MIT",
   "private": false,
   "main": "js/angular-daterangepicker.js",
+  "dependencies": {
+    "daterangepicker": "~0.0.3"
+  },
   "devDependencies": {
     "coffeelint": "^1.12.1",
     "grunt": "~0.4.1",
